@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zen</h1>
-<h3 align="center">I am a product designer from China，nice to meet you!😄</h3>
+# Hi 👋, I'm Zen
+## I am a product designer from China，nice to meet you!😄
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiyuzhen&label=Profile%20views&color=0e75b6&style=flat" alt="caiyuzhen" /> </p>
 
