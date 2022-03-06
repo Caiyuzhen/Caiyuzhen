@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zen</h1>
 <h3 align="center">I am a product designer from China，nice to meet you!😄</h3>
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiyuzhen&label=Profile%20views&color=0e75b6&style=flat" alt="caiyuzhen" /> </p>
 
 <h3 align="left">Connect with me:</h3>
