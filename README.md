@@ -12,6 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **Frameworks**
+- ✏️ My Social Blog **https://okjk.co/goxzMe**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
