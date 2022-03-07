@@ -18,8 +18,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-
+<!-- <h3 align="left">Connect with me:</h3> -->
+### Connect with me
 <p align="left">
     <a href="https://dev.to/https://dev.to/zenn/welcome-to-use-the-productivity-tools-provided-by-ours-5cfk" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/zenn/welcome-to-use-the-productivity-tools-provided-by-ours-5cfk" height="30" width="40" />
@@ -102,6 +102,7 @@
 
 </p>
 
+### Github Status
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiyuzhen&show_icons=true&locale=en&layout=compact" alt="caiyuzhen" />
 </p>
@@ -110,6 +111,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiyuzhen&show_icons=true&locale=en" alt="caiyuzhen" />
 </p>
 
+### Contribution
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiyuzhen&"alt="caiyuzhen"/>
 </p>
