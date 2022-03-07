@@ -1,10 +1,15 @@
 # Hey 👋, I'm Zen
 ## I am a product designer from China，nice to meet you!😄
 
+<br />
+<br />
 
 ### Recent Reflections
 - 🌱 I’m currently learning **Frameworks**
 - 💻 I've recently been working on a **creation tool**
+
+<br />
+<br />
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,6 +26,9 @@
 
 - ✏️ My Social Blog **https://okjk.co/goxzMe**
 - ✒️ My Twitter **https://twitter.com/Caizen5**
+
+<br />
+<br />
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me
@@ -45,6 +53,9 @@
     </a>
 </p>
 
+
+<br />
+<br />
 
 ### Languages and Tools
 <p align="left"> 
@@ -105,6 +116,11 @@
 </a> 
 
 </p>
+
+
+<br />
+<br />
+
 
 ### Github Status
 <p>
