@@ -1,6 +1,14 @@
 # Hey 👋, I'm Zen
 ## I am a product designer from China，nice to meet you!😄
 
+
+### Recent Reflections
+- 🌱 I’m currently learning **Frameworks**
+- 💻 I've recently been working on a **creation tool**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=caiyuzhen&label=Profile%20views&color=0e75b6&style=flat" alt="caiyuzhen" /> 
 </p>
@@ -11,12 +19,8 @@
     </a> 
 </p>
 
-- 🌱 I’m currently learning **Frameworks**
 - ✏️ My Social Blog **https://okjk.co/goxzMe**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ✒️ My Twitter **https://twitter.com/Caizen5**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me
@@ -101,28 +105,3 @@
 </a> 
 
 </p>
-
-### Github Status
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiyuzhen&show_icons=true&locale=en&layout=compact" alt="caiyuzhen" />
-</p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiyuzhen&show_icons=true&locale=en" alt="caiyuzhen" />
-</p>
-
-### Contribution
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiyuzhen&"alt="caiyuzhen"/>
-</p>
-
-
-<!-- ### Tools
-![dev]
-(https://img.shields.io/badge/dev.to-
-0A0A0A?
-style=for-the-badge&logo=dev.to
-&logoColor=white) -->
-
-
-<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
