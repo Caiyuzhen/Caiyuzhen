@@ -1,5 +1,5 @@
 # Hey 👋, I'm Zen
-## I am a product designer from China，nice to meet you!😄
+## I am a product designer from China，glad to meet you!😄
 
 <br />
 <br />
