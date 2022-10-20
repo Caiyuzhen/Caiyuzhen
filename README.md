@@ -1,4 +1,4 @@
-# Hey 👋, I'm Zeno
+# Hey, I'm Zeno 👋
 ### I’m a UX designer  and Front-end development enthusiasts from HongKong, Now I live in Shenzhen. My previous experience has focused on efficiency tools and communication tools. I'm also interested in some development libraries, so please feel free to share with me! 👏
 
 <br />
