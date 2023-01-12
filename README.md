@@ -9,7 +9,7 @@
 ### Recent I Spent My Time On:
 - 🌱 learning **DesignPatterns**
 - 💻 Working on a **creation tool** design
-- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 JavaScript     58 mins         ████████████████████████▒   96.83 %
 Python.        46 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
