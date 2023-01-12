@@ -6,9 +6,15 @@
 <br />
 <br />
 
-### Recent Reflections
-- 🌱 I’m currently learning **Frameworks**
-- 💻 I've recently been working on a **creation tool**
+### Recent I Spent My Time On:
+- 🌱 learning **DesignPatterns**
+- 💻 Working on a **creation tool** design
+- <!--START_SECTION:waka-->
+```text
+Python   37 mins         ████████████████████████▒   96.83 %
+HTML     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+```
+<!--END_SECTION:waka-->
 
 <br />
 <br />
