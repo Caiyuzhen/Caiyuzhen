@@ -12,7 +12,9 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%202%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,7 +90,7 @@ Go                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 21:09:04 UTC
+ Last Updated on 15/04/2024 18:34:49 UTC
 <!--END_SECTION:waka-->
 
 
