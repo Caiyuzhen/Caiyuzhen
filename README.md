@@ -20,6 +20,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 286 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -90,7 +92,7 @@ Go                       3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 18:35:56 UTC
+ Last Updated on 01/06/2024 18:35:33 UTC
 <!--END_SECTION:waka-->
 
 
