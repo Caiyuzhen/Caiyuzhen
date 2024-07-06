@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,7 +20,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 288 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,18 +55,18 @@ Sunday                   306 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 mins              ███████████████████████░░   90.80 % 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JSON                     22 mins             █████████████████████████   98.75 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-result                   2 mins              ███████████████████████░░   90.80 % 
-Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+result                   22 mins             █████████████████████████   98.75 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2024 18:37:09 UTC
+ Last Updated on 06/07/2024 18:35:52 UTC
 <!--END_SECTION:waka-->
 
 
