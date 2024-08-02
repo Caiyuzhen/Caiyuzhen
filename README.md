@@ -53,19 +53,16 @@ Sunday                   306 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 mins              ███████████████████████░░   91.46 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BasicGAN_Training        7 mins              ███████████████████████░░   91.46 % 
-thank-you-letter         0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +82,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:37:42 UTC
+ Last Updated on 02/08/2024 18:37:44 UTC
 <!--END_SECTION:waka-->
 
 
