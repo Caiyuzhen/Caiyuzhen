@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,16 +53,20 @@ Sunday                   312 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 14 mins       █████████████████████████   98.35 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Pix2Pix-1                4 hrs 15 mins       █████████████████████████   98.58 % 
+pytorch-CycleGAN-and-pix23 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +86,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2024 18:38:42 UTC
+ Last Updated on 12/08/2024 18:40:18 UTC
 <!--END_SECTION:waka-->
 
 
