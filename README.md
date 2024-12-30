@@ -20,7 +20,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 404 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,18 +55,16 @@ Sunday                   335 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     7 mins              ███████████████████████░░   92.95 % 
-CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-未命名文件夹                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +84,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:39:03 UTC
+ Last Updated on 30/12/2024 18:39:57 UTC
 <!--END_SECTION:waka-->
 
 
