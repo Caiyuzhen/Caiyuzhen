@@ -12,13 +12,13 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 29 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,16 +53,22 @@ Sunday                   335 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             ████████████████████░░░░░   78.88 % 
+Swift                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TTS_Voice_Server         15 mins             ████████████████░░░░░░░░░   65.41 % 
+AME_mock                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+TTS_Voice_Server-1       3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+未命名文件夹                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +88,7 @@ Rich Text Format         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 18:40:20 UTC
+ Last Updated on 06/02/2025 18:41:43 UTC
 <!--END_SECTION:waka-->
 
 
