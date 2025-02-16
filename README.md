@@ -1,7 +1,7 @@
 # Hi, I'm Zen 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B18F7&width=435&lines=Design+and+technology+enthusiasts)](https://git.io/typing-svg)
 
-### I’m a UX designer and front-end development enthusiast from Hong Kong, now based in Shenzhen. Recently, my focus has been on developing AI-powered tools. My previous experience has revolved around efficiency and communication tools. I’m also interested in exploring development libraries, so feel free to share any cool ones with me! 👏
+### I’m a UX designer and front-end development enthusiast from Hong Kong, now based in Shenzhen. Recently, I’ve been developing AI-powered productivity tools and small games. My previous experience focused on efficiency and communication tools. I’m always exploring new development libraries, so feel free to share any interesting ones with me! ❤️
 
 <br />
 <br />
