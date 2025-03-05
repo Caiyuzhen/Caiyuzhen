@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,20 +55,16 @@ Sunday                   335 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    17 mins             ████████████████░░░░░░░░░   65.63 % 
-TypeScript               8 mins              ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AME_mock                 17 mins             ████████████████░░░░░░░░░   65.63 % 
-thank-you-letter         8 mins              ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Xcode_autoUpdate_Script  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+thank-you-letter         8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +84,7 @@ Rich Text Format         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:42:47 UTC
+ Last Updated on 05/03/2025 18:42:03 UTC
 <!--END_SECTION:waka-->
 
 
