@@ -20,8 +20,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -84,7 +82,7 @@ Rich Text Format         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2025 18:42:03 UTC
+ Last Updated on 06/03/2025 18:42:44 UTC
 <!--END_SECTION:waka-->
 
 
