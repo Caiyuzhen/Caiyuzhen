@@ -12,11 +12,15 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C366%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,7 +93,7 @@ Ren'Py                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 18:40:59 UTC
+ Last Updated on 11/05/2025 18:40:20 UTC
 <!--END_SECTION:waka-->
 
 
