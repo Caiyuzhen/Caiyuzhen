@@ -12,6 +12,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -53,15 +55,13 @@ Sunday                   339 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    5 hrs 12 mins       █████████████████████████   99.94 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Swift                    5 hrs 12 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AME_mock                 5 hrs 12 mins       █████████████████████████   99.94 % 
-2D_Fruit_Cut_Game        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+AME_mock                 5 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
@@ -84,7 +84,7 @@ Ren'Py                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2025 18:44:31 UTC
+ Last Updated on 25/06/2025 18:45:24 UTC
 <!--END_SECTION:waka-->
 
 
