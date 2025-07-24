@@ -12,13 +12,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 119 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,16 +55,20 @@ Sunday                   339 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 11 mins        ██████████████████████░░░   86.91 % 
+C#                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr                ██████████████████░░░░░░░   73.63 % 
+Cursor                   21 mins             ███████░░░░░░░░░░░░░░░░░░   26.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+My project               46 mins             ██████████████░░░░░░░░░░░   56.37 % 
+Unknown Project          33 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
+TestMCP                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +88,7 @@ Ren'Py                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 18:46:04 UTC
+ Last Updated on 24/07/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
 
 
