@@ -18,7 +18,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 140 Contributions in the Year 2025
+> 🏆 141 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,6 +26,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+🌆 Daytime                765 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
+🌃 Evening                603 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌙 Night                  969 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Tuesday                  366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 473 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Friday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Sunday                   339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -43,7 +82,7 @@ Ren'Py                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 18:42:34 UTC
+ Last Updated on 22/09/2025 18:43:45 UTC
 <!--END_SECTION:waka-->
 
 
