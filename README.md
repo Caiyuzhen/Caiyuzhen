@@ -26,45 +26,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-🌆 Daytime                899 commits         █████████░░░░░░░░░░░░░░░░   35.20 % 
-🌃 Evening                603 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-🌙 Night                  969 commits         █████████░░░░░░░░░░░░░░░░   37.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Thursday                 601 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Friday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Saturday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Sunday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -82,7 +43,7 @@ Ren'Py                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:45:09 UTC
+ Last Updated on 03/11/2025 18:43:37 UTC
 <!--END_SECTION:waka-->
 
 
