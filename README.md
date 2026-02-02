@@ -12,6 +12,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2017%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -26,6 +28,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+🌆 Daytime                891 commits         █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌃 Evening                626 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+🌙 Night                  963 commits         █████████░░░░░░░░░░░░░░░░   37.49 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Thursday                 571 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Friday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Saturday                 258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -43,7 +84,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:48:33 UTC
+ Last Updated on 02/02/2026 18:51:19 UTC
 <!--END_SECTION:waka-->
 
 
