@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,16 +55,20 @@ Sunday                   347 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     17 mins             █████████████░░░░░░░░░░░░   53.13 % 
+TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Rust                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+React_Langchain_Agent    32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +88,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Caiyuzhen/Caiyuzhen/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 18:50:31 UTC
+ Last Updated on 21/02/2026 18:48:09 UTC
 <!--END_SECTION:waka-->
 
 
